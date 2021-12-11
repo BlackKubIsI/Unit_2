@@ -9,3 +9,4 @@ print("2.4")
 print(list("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"))
 
 print("NEW_!__> 2")
+print("AAAAAAAAAAAAAAAA")
